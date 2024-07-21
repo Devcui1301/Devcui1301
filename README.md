@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="[https://your-cool-avatar-url.com](https://i.pinimg.com/200x150/9f/01/73/9f01736a2bd0986452bd95ef05abf425.jpg)" width="200" height="200">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FG%25E1%25BA%25A5u_n%25C3%25A2u&psig=AOvVaw3XO-TaEDsEkdnU-FvluFzq&ust=1721635093613000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOik1d_Ut4cDFQAAAAAdAAAAABAE" width="200" height="200">
 </div>
 
 # HI, My name is Devcui1301!
