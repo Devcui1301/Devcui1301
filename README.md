@@ -30,7 +30,7 @@ Tôi luôn đam mê thực hiện các dự án cá nhân để rèn kỹ năng 
 2. ** 2**: 
 3. ** 3**:
 
-Bạn có thể tìm hiểu thêm về các dự án của tôi trên trang web cá nhân của tôi: [https://your-website-url.com]()
+Bạn có thể tìm hiểu thêm về các dự án của tôi trên trang web cá nhân của tôi: []()
 
 ## Liên Hệ
 Rất vui được kết nối và chia sẻ kinh nghiệm với bạn! Hãy liên hệ với tôi nếu bạn quan tâm đến dự án hoặc muốn trao đổi về công nghệ.
